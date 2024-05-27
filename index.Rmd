@@ -7,3 +7,6 @@ output:
 
 Welcome to my website!  
 I am a student at SUSTech, my research is about BVOC.
+
+
+<img src="D:/Git/Git/figs/图片1.png" alt="drawing" width="1000"/>
